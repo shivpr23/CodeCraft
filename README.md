@@ -1,6 +1,5 @@
 # Online Judge CodeCraft
 
-https://github.com/user-attachments/assets/493395a8-c738-493e-b1e5-f3a572ad4c23
 
 ## Problem Statement
 
